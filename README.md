@@ -1,2 +1,2 @@
 # Website-TemplateTwo
-a Responsive website using CSS and HTML only  
+A responsive website using CSS and HTML only  
